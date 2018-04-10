@@ -14,6 +14,7 @@ here is a plot
 ## Bibliography
 [1] important
 [2] paper
+[3] paper
 
 ## Appendix
 Thank you
