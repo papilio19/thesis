@@ -8,6 +8,7 @@ recapitulate important theory papers
 
 ## important results
 lots of plots
+here is a plot
 
 ## Bibliography
 [1] important
