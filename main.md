@@ -10,5 +10,8 @@ recapitulate important theory papers
 lots of plots
 
 ## Bibliography
+[1] important
+[2] paper
 
 ## Appendix
+Thank you
